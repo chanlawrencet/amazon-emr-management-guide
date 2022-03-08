@@ -1,9 +1,16 @@
 # Using the AWS SDK for Java to create an Amazon EMR cluster<a name="calling-emr-with-java-sdk"></a>
 
-The AWS SDK for Java provides three packages with Amazon EMR functionality:
-+  [com\.amazonaws\.services\.elasticmapreduce](https://docs.aws.amazon.com/sdk-for-java/latest/reference/com/amazonaws/services/elasticmapreduce/package-summary.html) 
-+  [com\.amazonaws\.services\.elasticmapreduce\.model](https://docs.aws.amazon.com/sdk-for-java/latest/reference/com/amazonaws/services/elasticmapreduce/model/package-summary.html) 
-+  [com\.amazonaws\.services\.elasticmapreduce\.util](https://docs.aws.amazon.com/sdk-for-java/latest/reference/com/amazonaws/services/elasticmapreduce/util/package-summary.html) 
+The AWS SDK for Java provides packages with Amazon EMR functionality:
++  [software\.amazon\.awssdk\.services\.emr](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emr/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emr\.model](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emr/model/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emr\.paginators](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emr/paginators/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emr\.transform](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emr/transform/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emr\.waiters](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emr/waiters/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emr\.waiters\.internal](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emr/waiters/internal/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emrcontainers](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emrcontainers/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emrcontainers\.model](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emrcontainers/model/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emrcontainers\.paginators](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emrcontainers/paginators/package-summary.html)
++  [software\.amazon\.awssdk\.services\.emrcontainers\.transform](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/emrcontainers/transform/package-summary.html)
 
 For more information about these packages, see the [AWS SDK for Java API Reference](https://docs.aws.amazon.com/sdk-for-java/latest/reference/)\.
 
